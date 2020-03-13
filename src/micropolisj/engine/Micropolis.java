@@ -543,7 +543,7 @@ public class Micropolis
 		for (int y = 0; y < fireStMap.length; y++) {
 			for (int x = 0; x < fireStMap[y].length; x++) {
 				fireStMap[y][x] = 0;
-				policeMap[y][x] = 0;
+				//policeMap[y][x] = 0;
 			}
 		}
 	}
